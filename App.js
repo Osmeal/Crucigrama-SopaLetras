@@ -10,8 +10,8 @@ export default function App() {
   return (
     <NavigationContainer>
       <Tab.Navigator>
-        <Tab.Screen name="Screen1" component={Screen1} />
-        <Tab.Screen name="Screen2" component={Screen2} />
+        <Tab.Screen name="Crucigrama" component={Screen1} />
+        <Tab.Screen name="Sopa de Letras" component={Screen2} />
       </Tab.Navigator>
     </NavigationContainer>
   );

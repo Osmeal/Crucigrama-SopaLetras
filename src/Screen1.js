@@ -115,7 +115,7 @@ export default function Screen1() {
       <TouchableHighlight
         underlayColor="transparent"
         onPress={() => establecerDefiniciones()}>
-        <Text style={{ fontSize: 40, marginVertical: 20, fontWeight: 'bold' }}>Crossroads</Text>
+        <Text style={{ fontSize: 40, marginVertical: 20, fontWeight: 'bold' }}>Crucigrama</Text>
       </TouchableHighlight>
 
       <View style={{ justifyContent: 'center', alignItems: 'center' }}>
